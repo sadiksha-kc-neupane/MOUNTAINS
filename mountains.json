@@ -1,0 +1,365 @@
+[
+  {
+    "country": "NEPAL",
+    "name": "Mount Everest",
+    "height": "8848.86 m",
+    "range": "Himalayas",
+    "description": "The highest mountain in the world, located on the Nepal–China border. Represents the ultimate climbing achievement.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Kanchenjunga",
+    "height": "8586 m",
+    "range": "Himalayas",
+    "description": "The third highest mountain in the world, located between Nepal and India, considered sacred.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Lhotse",
+    "height": "8516 m",
+    "range": "Himalayas",
+    "description": "Fourth highest peak in the world, part of the Everest massif and a technical climbing favorite.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Makalu",
+    "height": "8484 m",
+    "range": "Himalayas",
+    "description": "Fifth highest mountain, known for its dramatic pyramid shape and extreme climbing routes.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Cho Oyu",
+    "height": "8188 m",
+    "range": "Himalayas",
+    "description": "Sixth highest peak, popular among climbers preparing for Everest due to its relatively moderate routes.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Dhaulagiri I",
+    "height": "8167 m",
+    "range": "Himalayas",
+    "description": "Seventh highest mountain in the world, located in western Nepal with vast snow fields.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Manaslu",
+    "height": "8163 m",
+    "range": "Himalayas",
+    "description": "Eighth highest mountain, offering scenic treks on the Manaslu Circuit route.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Annapurna I",
+    "height": "8091 m",
+    "range": "Himalayas",
+    "description": "Tenth highest peak and landmark of the Annapurna region, known for dramatic ridges.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Gyachung Kang",
+    "height": "7952 m",
+    "range": "Himalayas",
+    "description": "Fifteenth highest mountain in the world, located between Everest and Cho Oyu.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Annapurna II",
+    "height": "7937 m",
+    "range": "Himalayas",
+    "description": "Second major peak of the Annapurna range, a challenging climb with steep ridges.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg "
+  },
+
+  {
+    "country": "NEPAL",
+    "name": "Annapurna III",
+    "height": "7555 m",
+    "range": "Himalayas",
+    "description": "Third major summit in the Annapurna region with rugged peaks.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Annapurna IV",
+    "height": "7525 m",
+    "range": "Himalayas",
+    "description": "Fourth major summit of the Annapurna range, near the dramatic Annapurna sanctuary.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Annapurna South",
+    "height": "7219 m",
+    "range": "Himalayas",
+    "description": "Southern peak of the Annapurna massif, known for spectacular views.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Baruntse",
+    "height": "7129 m",
+    "range": "Himalayas",
+    "description": "A beautiful peak near Everest, often combined with Ama Dablam expeditions.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Pumori",
+    "height": "7161 m",
+    "range": "Himalayas",
+    "description": "A striking pyramid peak near the Everest region often photographed from base camp.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Ngadi Chuli",
+    "height": "7871 m",
+    "range": "Himalayas",
+    "description": "Also known as Peak 29, one of the highest unclimbed peaks for many years.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "name": "Chamlang",
+    "height": "7319 m",
+    "range": "Himalayas",
+    "description": "A Himalayan peak with steep faces, often climbed by advanced mountaineers.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Tilicho Peak",
+    "height": "7134 m",
+    "range": "Himalayas",
+    "description": "A famous trekking and climbing peak near Tilicho Lake, one of the highest lakes in the world.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Gauri Sankar",
+    "height": "7134 m",
+    "range": "Himalayas",
+    "description": "Twin‑peaked mountain named after the Hindu goddess Parvati (Gauri) and Shiva.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg  "
+  },
+  {
+    "name": "Ganesh Himal I",
+    "height": "7422 m",
+    "range": "Himalayas",
+    "description": "Part of the Ganesh Himal range west of Kathmandu, known for alpine landscapes.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+
+  {
+    "country": "NEPAL",
+    "name": "Ama Dablam",
+    "height": "6814 m",
+    "range": "Himalayas",
+    "description": "One of Nepal’s most beautiful peaks, often called the ‘Matterhorn of the Himalayas.’",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "name": "Mera Peak",
+    "height": "6476 m",
+    "range": "Himalayas",
+    "description": "The highest trekking peak in Nepal, offering panoramic views of Everest, Makalu and Kanchenjunga.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Island Peak",
+    "height": "6189 m",
+    "range": "Himalayas",
+    "description": "Popular trekking and climbing peak near Everest Base Camp.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "name": "Lobuche East",
+    "height": "6119 m",
+    "range": "Himalayas",
+    "description": "A well‑known trekking peak with views of Everest and the surrounding giants.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Cholatse",
+    "height": "6440 m",
+    "range": "Himalayas",
+    "description": "A striking peak in the Everest region loved by climbers for ice climbing routes.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+
+  {
+    "name": "Pisang Peak",
+    "height": "6091 m",
+    "range": "Himalayas",
+    "description": "A popular climb on the Annapurna circuit route with great views.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Hiunchuli",
+    "height": "6441 m",
+    "range": "Himalayas",
+    "description": "A peak connected to Annapurna South, known for its dramatic ridge line.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Kusum Kanguru",
+    "height": "6369 m",
+    "range": "Himalayas",
+    "description": "A Himalayan mountain with steep faces and ice routes, popular with technical climbers.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+
+  {
+    "name": "Kongde Ri",
+    "height": "6187 m",
+    "range": "Himalayas",
+    "description": "A Himalayan peak near Namche Bazaar with stunning vistas.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Pokalde",
+    "height": "5806 m",
+    "range": "Himalayas",
+    "description": "A scenic trekking peak in the Everest region with panoramic views.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+
+  {
+    "country": "NEPAL",
+    "name": "Nirekha Peak",
+    "height": "6069 m",
+    "range": "Himalayas",
+    "description": "A popular peak with excellent views of Everest, Makalu and Kanchenjunga.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "name": "Khumbutse",
+    "height": "6636 m",
+    "range": "Himalayas",
+    "description": "Located near Everest, seen from base camp treks.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+
+  {
+    "country": "NEPAL",
+    "name": "Taboche",
+    "height": "6495 m",
+    "range": "Himalayas",
+    "description": "A rugged peak near Cholatse and Ama Dablam in the Everest region.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "name": "Machapuchare (Fishtail)",
+    "height": "6993 m",
+    "range": "Himalayas",
+    "description": "A sacred peak near Annapurna Base Camp, closed to climbing due to spiritual reasons.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+
+  {
+    "country": "NEPAL",
+    "name": "Yala Peak",
+    "height": "5520 m",
+    "range": "Himalayas",
+    "description": "A climbing peak in Langtang Valley known for its gentle slopes and views.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Nuptse",
+    "height": "7861 m",
+    "range": "Himalayas",
+    "description": "A neighbor of Everest, often seen from Everest Base Camp.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "country": "NEPAL",
+    "name": "Khatung Kang",
+    "height": "6484 m",
+    "range": "Himalayas",
+    "description": "A technical peak near Makalu’s eastern shoulder.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+
+  {
+    "name": "Thapa Peak (Dhampus)",
+    "height": "6012 m",
+    "range": "Himalayas",
+    "description": "A scenic peak near Annapurna with panoramic landscapes.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+
+  {
+    "name": "Gangapurna",
+    "height": "7455 m",
+    "range": "Annapurna",
+    "description": "A sister peak of Annapurna in the Annapurna massif.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "name": "Kyazo Ri",
+    "height": "6151 m",
+    "range": "Himalayas",
+    "description": "A Himalayan peak near the Everest region with impressive views.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "name": "Phari Lapcha",
+    "height": "6017 m",
+    "range": "Himalayas",
+    "description": "A ridge peak on the Everest side with dramatic landscapes.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+
+  {
+    "name": "Dorje Lhakpa",
+    "height": "6966 m",
+    "range": "Himalayas",
+    "description": "A popular climbing peak in the Langtang region with snowy ridges.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+
+  {
+    "name": "Chamar",
+    "height": "7187 m",
+    "range": "Himalayas",
+    "description": "A remote peak in western Nepal near Dhaulagiri.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "name": "Gurja Himal",
+    "height": "7193 m",
+    "range": "Himalayas",
+    "description": "A steep and rugged peak in western Nepal.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+  {
+    "name": "Bhrikuti",
+    "height": "6364 m",
+    "range": "Himalayas",
+    "description": "A Himalayan peak in Nepal with alpine ridges.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  },
+
+  {
+    "name": "Bhemadang RI",
+    "height": "6150 m",
+    "range": "Himalayas",
+    "description": "A peak near Annapurna region trekking routes.",
+    "image": "70e109b6aef9775ab251df53ba1d8102.jpg"
+  }
+]
