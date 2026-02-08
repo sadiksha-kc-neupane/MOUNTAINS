@@ -16,6 +16,7 @@ body {
   background-image: url(mmmm.jpg);
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
 }
 
 h1 {
@@ -69,4 +70,21 @@ button:hover {
   margin-top: 20px;
   font-size: 1.5em;
   text-align: center;
+}
+
+.mountain-info {
+  color: #fafbfd; /* blue */
+  font-weight: 500;
+}
+
+#result {
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 12px;
+  background-color: rgba(125, 203, 242, 0.9);
+  box-shadow: 0 4px 10px rgba(28, 1, 1, 0.2);
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
