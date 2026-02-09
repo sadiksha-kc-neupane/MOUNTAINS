@@ -32,3 +32,11 @@ function searchMountain() {
 document
   .getElementById("searchButton")
   .addEventListener("click", searchMountain);
+
+document
+  .getElementById("searchInput")
+  .addEventListener("keypress", function (e) {
+    if (e.key === "Enter") {
+      searchMountain();
+    }
+  });
