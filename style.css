@@ -82,9 +82,9 @@ button:hover {
   margin-top: 20px;
   padding: 20px;
   border-radius: 12px;
-  background-color: rgba(125, 203, 242, 0.9);
+  background-color: rgba(141, 203, 234, 0.9);
   box-shadow: 0 4px 10px rgba(28, 1, 1, 0.2);
-  max-width: 600px;
+  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
