@@ -16,11 +16,11 @@ function searchMountain() {
   );
 
   if (found) {
-    resultDiv.innerHTML = `<h2><strong>NAME:</strong> ${found.name} </h2>
-    <p class="mountain-info"> ${found.country}</p>
-    <p class="mountain-info" >${found.height}</p>
-    <p class="mountain-info">${found.range}</p>
-    <p class="mountain-info">${found.description}</p>
+    resultDiv.innerHTML = `<h2><strong>NAME : </strong> ${found.name} </h2>
+    <p class="mountain-info"><strong>COUNTRY : </strong> ${found.country}</p>
+    <p class="mountain-info" ><strong>HEIGHT : </strong>${found.height}</p>
+    <p class="mountain-info"><strong>RANGE : </strong>${found.range}</p>
+    <p class="mountain-info"><strong>DESRIPTION : </strong>${found.description}</p>
     <img src="${found.image}" alt="${found.name}" style="max-width:500px;"/>
 
     `;
