@@ -1,3 +1,5 @@
+const mountainName = localStorage.getItem("selectedMountain");
+
 let mountains = [];
 
 fetch("mountains.json")
@@ -40,3 +42,15 @@ document
       searchMountain();
     }
   });
+
+document.getElementById("searchBtn").addEventListener("click", () => {
+  const name = document.getElementById("searchInput").value.trim();
+
+  if (name === "") {
+    alert("Please enter a mountain name");
+    return;
+  }
+
+  localStorage.setItem("selectedMountain", name);
+  window.location.href = "details.html";
+});
